@@ -1,0 +1,10 @@
+boto3
+tabula-py
+faiss-cpu
+pymupdf
+requests
+numpy
+tqdm
+langchain-text-splitters
+langchain-aws
+jpype1
